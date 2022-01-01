@@ -7,4 +7,5 @@
 ola 
 
 
-and girl they
+(and) (girl) (they_)
+ frase de tradução in
