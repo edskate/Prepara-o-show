@@ -23,3 +23,9 @@
 - is so
 - By here
 - we here
+- Dark
+- Get over
+- But you
+- Angel bay
+- Did you do
+- I did to keep you
