@@ -1,0 +1,34 @@
+body{
+text-shadow: 2px 3px 4px rgba(11, 52, 139, 0.2);
+border-radius: 10px 1px 10px ;
+border: 4px solid #802380;
+margin: 7%;
+color: aliceblue;
+
+
+
+
+}
+.box1{
+background-color: blueviolet;
+text-shadow: 2px 3px 4px #3d043d;
+
+}
+.box2{
+background-color: beige;
+text-shadow:2px 3px 4px  #802380;
+
+
+}
+.box3{
+background-color: cadetblue;
+text-shadow: 2px 3px 4px #045f9b;
+}
+.box4{
+background-color: cornflowerblue;
+text-shadow: 2px 3px 4px #b7ca0d;
+}
+.box5{
+background-color: #b7ca0d;
+text-shadow: 2px 3px 4px #3d043d;
+}
